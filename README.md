@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Tushar Chauhan</h1>
 <h3 align="center">An Aspiring Software Developer</h3>
 
-<img align="right" alt="Coding" width="400" src="https://i.imgur.com/yourimage.gif">
+<img align="right" alt="Coding" width="400" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3g2Mzc1bXhxc2F6YmFuOXA5ZmE2eXFienpiZzkza3BxdnBnZ3FjeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l0Ex73AUevNVVoPw4/giphy.webp">
 
 
 
