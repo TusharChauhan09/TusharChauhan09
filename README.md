@@ -1,4 +1,4 @@
-[![MasterHead](https://www.canva.com/design/DAGH2NJ0GI4/dIZ-AOTzILxu9ofi7xOcig/watch?utm_content=DAGH2NJ0GI4&utm_campaign=designshare&utm_medium=link&utm_source=editor)]
+[![MasterHead]([https://1.bp.blogspot.com/-7A4WynwLsM...](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif))](https://TusharChauhan09.io)
 <h1 align="center">Hi 👋, I'm Tushar Chauhan</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="Coding" width="400" src"https://gifdb.com/images/high/animated-angry-man-coding-u40xyqr26qyez70f.gif">
