@@ -1,8 +1,7 @@
-[![MasterHead]([https://1.bp.blogspot.com/-7A4WynwLsM...](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif))](https://TusharChauhan09.io)
+[![MasterHead](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)](https://TusharChauhan09.io)
 <h1 align="center">Hi 👋, I'm Tushar Chauhan</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="Coding" width="400" src"https://gifdb.com/images/high/animated-angry-man-coding-u40xyqr26qyez70f.gif">
-
+<img align="right" alt="Coding" width="400" src="https://gifdb.com/images/high/animated-angry-man-coding-u40xyqr26qyez70f.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tusharchauhan09&label=Profile%20views&color=0e75b6&style=flat" alt="tusharchauhan09" /> </p>
 
@@ -10,7 +9,7 @@
 
 - 🌱 I’m currently learning **DSA and Android Development**
 
-- 💬 Ask me about **HTML , CSS , JavaScript , Python ,C , C++ ,SQL**
+- 💬 Ask me about **HTML, CSS, JavaScript, Python, C, C++, SQL**
 
 - 📫 How to reach me **tusharchauhan0912@gmail.com**
 
