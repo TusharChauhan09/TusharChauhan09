@@ -2,7 +2,8 @@
 <h1 align="center">Hi 👋, I'm Tushar Chauhan</h1>
 <h3 align="center">An Aspiring Software Developer</h3>
 
-<img align="right" alt="Coding" width="400" src="https://gifdb.com/images/high/animated-angry-man-coding-u40xyqr26qyez70f.gif">
+<img align="right" alt="Coding" width="400" src="https://i.imgur.com/yourimage.gif">
+
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tusharchauhan09&label=Profile%20views&color=0e75b6&style=flat" alt="tusharchauhan09" /> </p>
