@@ -20,7 +20,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/www.linkedin.com/in/tusharchauhan9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/tusharchauhan9" height="30" width="40" /></a>
 <a href="https://instagram.com/_.tushar.chauahan._" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_.tushar.chauahan._" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/tusharchauhan0912" target="blank"><img align="center" src="" alt="tusharchauhan0912" height="30" width="40" /></a>
+<a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="tusharchauhan0912" height="30" width="40" /></a>
 <a href="https://discord.gg/https://discord.gg/BDuXYGfNgy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/BDuXYGfNgy" height="30" width="40" /></a>
 </p>
 
