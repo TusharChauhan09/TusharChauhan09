@@ -8,7 +8,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tusharchauhan09&label=Profile%20views&color=0e75b6&style=flat" alt="tusharchauhan09" /> </p>
 
-- 🔭 I’m currently working on [ProjectiFy](http://projectify-freelancing.000webhostapp.com/contacts.pf.html)
+- 🔭 I’m currently working on Enlight-App
 
 - 🌱 I’m currently learning **DSA and Android Development**
 
@@ -30,3 +30,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tusharchauhan09&show_icons=true&locale=en" alt="tusharchauhan09" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tusharchauhan09&" alt="tusharchauhan09" /></p>
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tusharchauhan09&show_icons=true&locale=en&layout=compact" alt="tusharchauhan09" /></p>
+
